@@ -1,0 +1,28 @@
+name: onlyhomewegot
+favicon: null
+layout_spectrum: 0.9256596283521503
+typography_spectrum: 0.6842248309403658
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.729723529657349
+  lightness: 0.05911361542530358
+  saturation: 0.000018966849893331528
+  rhythmicContrast: 0.29139603627845645
+purpose: []
