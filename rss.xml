@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[onlyhomewegot]]></title>
         <description><![CDATA[onlyhomewegot]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/onlyhomewegot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 02:57:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 02:59:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/onlyhomewegot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>onlyhomewegot.com is a reminder to thread lightly so that future generations can enjoy what we take for granted today.</p>]]></description>
-            <link>undefinedonlyhomewegotcom-is-a-reminder-to-thread-lightly-so-that-fu/index.html</link>
+            <description><![CDATA[<p>onlyhomewegot.com is a reminder to thread lightly on our temporary stay on Earth, so that future generations can enjoy what we preserved for them today.</p>]]></description>
+            <link>https://thegrid.ai/onlyhomewegot/onlyhomewegotcom-is-a-reminder-to-thread-lightly-so-that-fu/index.html</link>
             <guid isPermaLink="false">ec5bae6b-b50f-4cce-8803-2d1ac3d71d7a</guid>
-            <pubDate>Sun, 08 May 2016 02:56:57 GMT</pubDate>
+            <pubDate>Sun, 08 May 2016 02:59:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
